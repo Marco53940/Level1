@@ -28,3 +28,11 @@ int ping(int TriggerPin, int EchoPin) {
    distanceCm = duration * 10 / 292/ 2;   //convertimos a distancia, en cm
    return distanceCm;
 }
+
+/*
+ * 
+ * 
+ * 
+ * */
+ 
+ */
